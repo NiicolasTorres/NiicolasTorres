@@ -41,7 +41,15 @@ Here are some ideas to get you started:
   </p>
 
 
-<p >I specialize in the use of Python Programming Language and its' various frameworks and libraries such as Numpy, Pandas, SciKit Learn, OpenCV, TensorFlow, Pytorch etc to create analytical and machine models from data which can be used for data visualization and optimisation in business's and other fields of interest.
+<p >Hello! 👋 I'm Federico Nicolas Torres, a passionate developer with a deep love for artificial intelligence (AI). My fascination with AI drives me to constantly explore new ideas and techniques to create innovative solutions.
+
+Currently, I'm immersed in the world of bots and AI models. I love challenging myself by creating intelligent bots that can automate tasks, improve human interaction, and make technology more accessible for everyone.
+
+Additionally, I enjoy spending my free time experimenting with different AI models to classify images and data. From simple classifiers to deep neural networks, I'm always seeking ways to improve my skills and expand my knowledge in this exciting field.
+
+I'm always open to collaborations and new opportunities to learn and grow as an AI developer. Feel free to get in touch with me if you want to discuss interesting projects or simply exchange ideas about AI!
+
+Let's build the future together, one line of code at a time! 💻🤖✨
 </p>
 
 

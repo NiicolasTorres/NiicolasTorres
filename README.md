@@ -164,6 +164,4 @@ Let's build the future together, one line of code at a time! 💻🤖✨
 </p>
 
 -----
-Credits: [Nneji123](https://github.com/Nneji123)
 
-Last Edited on: 4/30/2022

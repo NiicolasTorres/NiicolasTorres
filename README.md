@@ -131,24 +131,11 @@ Let's build the future together, one line of code at a time! 💻🤖✨
 
 
 
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-  <p align="center">
-    <a href="NiicolasTorres">
-      <img alt="Federico Nicolas Torres's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NiicolasTorres&custom_title=Federico%20Nicolas%20Torres's%20Contribution%20Graph&theme=react-dark" />
-    </a>
-  </p>
-  <br/>
-</details>
 
 
 
 
-<br/>
 
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nneji123&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 
 

@@ -135,7 +135,7 @@ Let's build the future together, one line of code at a time! 💻🤖✨
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/NiicolasTorres">
+    <a href="NiicolasTorres">
       <img alt="Federico Nicolas Torres's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NiicolasTorres&custom_title=Federico%20Nicolas%20Torres's%20Contribution%20Graph&theme=react-dark" />
     </a>
   </p>
